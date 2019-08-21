@@ -1,0 +1,5 @@
+Se adjunta el codigo arduino para el funcionamiento de los nodos. El nodo 1 y 2 tienen variantes entre si, las mismas se encuentras comentadas en el codigo arduino.
+Se incluyen todas las librerias requeridas para el proyecto.
+
+
+Julian Juan Manuel Mayo 2019
