@@ -1,0 +1,5 @@
+En este directorio se encuentran todos los archivos necesario para editar el poncho de la EDU CIAA
+-->PCB para imprimir : se encuentran todos los archivos pdf para realizar el circuito PCB
+-->lib : Se encuentran todos los mudulos creados , ordenados por Carpeta
+-->basico.pcb :archivo KiCAD del circuito PCB
+-->basico.sch : archivo KiCad con diagrama esquematico

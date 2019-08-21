@@ -1,0 +1,7 @@
+En esta carpeta se encuentran los archivos de KiCAD del PCB del nodo.
+En la carpeta componentes_nodo.pretty se encuentran los componentes electrronicos creados para el nodo, ya que se recomienda crear nosotros mismos los componentes que vamos a utilizar (creacion de librerias).
+Las carpetas socket son plantillas que incluyen los terminales del arduino Nano. estas plantillas se pueden obtener desde GitHub, al igual que plantillas de otras plataformas.
+
+NODO.sch--> Esquematico del diseño
+NODO.pcb--> PCB del proyecto (pistas)
+los demas archivos son empleados por los dos anteriores.
